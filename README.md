@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shongbigno-pakhikul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Shongbigno Pakhikul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shongbigno-pakhikul/) |
+| **Get License** | [Get License For Shongbigno Pakhikul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shongbigno-pakhikul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মেঘের আড়ালে খুঁজি তোমার ওই মুখ
+> অচেনা মায়ায় কাঁপে আমার এই বুক
+> হারানো পথের শেষে তুমি শুধু আছো
+> আমার রাতের আঁধারে তুমি আলো হয়ে বাঁচো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
